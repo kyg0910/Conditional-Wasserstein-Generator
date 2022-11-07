@@ -4,7 +4,7 @@ This supplementary file provides the implementation used for the results in "Con
 The pretrained pytorch models can be downloaded from the link in the attached txt file.
 
 ## Experiments on Video Prediction
-Please check the video prediction folder.
+Please check the `code_prediction' folder.
 
 ## Experiments on Video Interpolation
-Please check the video interpolation folder.
+Please check the `code_interpolation' folder.
