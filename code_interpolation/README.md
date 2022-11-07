@@ -1,5 +1,5 @@
 ## Introduction
-This supplementary file provides the implementation used for the results in "Conditional Wasserstein Generator (CWG)" submitted to IEEE TPAMI 2021. This code is based on the official Github code of [A Temporally-Aware Interpolation Network for Video Frame Inpainting](https://link.springer.com/chapter/10.1007/978-3-030-20893-6_16) by Ximeng Sun, Ryan Szeto and Jason J. Corso. [1].
+This supplementary file provides the implementation used for the results in "Conditional Wasserstein Generator (CWG)" accepted for IEEE TPAMI 2022. This code is based on the official Github code of [A Temporally-Aware Interpolation Network for Video Frame Inpainting](https://link.springer.com/chapter/10.1007/978-3-030-20893-6_16) by Ximeng Sun, Ryan Szeto and Jason J. Corso. [1].
 
 The pretrained pytorch models can be downloaded from the link in the attached txt file.
 
